@@ -1,2 +1,1 @@
-# pphotography
-Mobile Photography site
+# Portfolio Site Codebase
